@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace sendGrid.Controllers;
+namespace email.Controllers;
 
 [ApiController]
 [Route("[controller]")]

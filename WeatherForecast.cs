@@ -1,4 +1,4 @@
-namespace sendGrid;
+namespace email;
 
 public class WeatherForecast
 {
